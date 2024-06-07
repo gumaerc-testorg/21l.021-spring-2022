@@ -23,10 +23,6 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 60
-- identifier: external--763591547-1675869452137
-  name: 'MIT Library Guide: Comedy'
-  url: https://libguides.mit.edu/comedy/home
-  weight: 70
 - identifier: cb0f4dea-60b6-4c83-93a8-6c4d34389f5d
   name: Discussion Prompts
   pageRef: /pages/discussion-prompts
