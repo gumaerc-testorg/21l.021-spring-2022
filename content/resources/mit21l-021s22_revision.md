@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/21l-021-comedy-spring-2022/mit21l-021s22_revision.docx
+file_size: 19249
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
   caption: ''
