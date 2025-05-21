@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21l-021-comedy-spring-2022/mit21l-021s22_e1rubric.docx
+file: courses/21l021-comedy/mit21l-021s22_e1rubric.docx
 file_size: 23562
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
