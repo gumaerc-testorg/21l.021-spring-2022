@@ -38,9 +38,9 @@ None
 
 ### Requirements Satisfied
 
-- [GIR CI-H](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects)
-- [GIR HASS-H](https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/humanities-arts-and-social-sciences-hass-requirement/)
-- *21L.021 Comedy* can be applied toward a [Bachelor of Science in Literature](http://catalog.mit.edu/schools/humanities-arts-social-sciences/literature/#undergraduatetext), but is not required.
+- {{% resource_link "bd5c5bdd-18af-4cc5-af2f-6a9453233f8f" "GIR CI-H" %}}
+- {{% resource_link "0089a7e6-cc4f-45bf-b85e-7dd1d5a2da62" "GIR HASS-H" %}}
+- *21L.021 Comedy* can be applied toward a {{% resource_link "ad424eca-a2a5-4ffc-862b-5fee49f59236" "Bachelor of Science in Literature" %}}, but is not required.
 
 ### Offered
 

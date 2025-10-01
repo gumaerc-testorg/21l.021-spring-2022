@@ -192,7 +192,7 @@ Bechdel, *Fun Home* 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
-Video: [Andy Kaufman on HBO](https://www.youtube.com/watch?v=f3UG8jP3A8M&feature=emb_title); Hannah Gadsby, [Three Ideas](https://www.youtube.com/watch?v=87qLWFZManA); [*Douglas*](https://www.youtube.com/watch?v=5lXbpgU9OWk)
+Video: {{% resource_link "cd0a1de9-d513-47ea-a1e7-000fc1082005" "Andy Kaufman on HBO" %}}; Hannah Gadsby, {{% resource_link "09f58ce7-4a78-483c-a02c-ba61429e98d9" "Three Ideas" %}}; {{% resource_link "a0d87d50-3e01-4629-a56d-94fa358e2846" "*Douglas*" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 **Reflection**(750 words)
